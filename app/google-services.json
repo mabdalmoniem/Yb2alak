@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863550197623",
+    "firebase_url": "https://yb2alak.firebaseio.com",
+    "project_id": "yb2alak",
+    "storage_bucket": "yb2alak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863550197623:android:9c651d71a9568209",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.yb2alak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863550197623-oa7fcqi49eldictu52553inethrppvrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Q52nYYPS39Kyv8JC5mH9IbB2lphw5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863550197623-oa7fcqi49eldictu52553inethrppvrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
